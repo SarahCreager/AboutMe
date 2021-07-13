@@ -1,0 +1,35 @@
+body *{
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+h2 {
+  font-size: x-large;
+}
+
+h3 {
+  font-size: large;
+}
+
+section {
+  border: 5px solid black;
+  margin: 20px 10px;
+  padding: 30px;
+}
+
+img {
+  width: 50%;
+}
+
+ol {
+  list-style: decimal;
+  list-style-position: inside;
+}
+
+ul {
+  list-style: circle;
+  list-style-position: inside;
+}
