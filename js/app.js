@@ -198,3 +198,5 @@ while(correctPlace === false && guesses > 0) {
 }
 
 alert(userName + ' thanks for playing! You got ' + score + ' answers correct.');
+
+
