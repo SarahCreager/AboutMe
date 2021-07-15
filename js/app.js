@@ -7,7 +7,7 @@ let userName = prompt('Hello there, what is your name?');
 
 console.log(userName);
 
-alert('Welcome ' + userName + '!');
+alert('Welcome ' + userName + '! Let\'s play a guessing game.');
 
 let score = 0;
 
@@ -133,7 +133,7 @@ if (fifthAnswer === 'no' || fifthAnswer === 'n') {
 // give 4 chances to guess
 // after 4th guess tell the user the correct answer
 
-alert(userName + ', let\'s play a guessing game!');
+alert(userName + ', let\'s play a number guessing game!');
 
 let correctAnswer = '27';
 console.log(correctAnswer);
