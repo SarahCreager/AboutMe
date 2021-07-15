@@ -6,6 +6,9 @@ I built an "About Me" webpage that contains my educational background, my work e
 
 ### Author: Sarah Creager
 
+### Driver: Abdulkadir Sheikh
+### Navigator: Sarah Creager
+
 ### Links and Resources
 * [.gitignore code](https://www.gitignore.io/api/node,linux,macos,windows,visualstudiocode)
 * [Eric Meyer's rest.css file](https://meyerweb.com/eric/tools/css/reset/)
