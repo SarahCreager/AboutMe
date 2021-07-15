@@ -2,7 +2,7 @@
 
 ## About Me
 
-I built an "About Me" webpage that provides some background information on who I am and what my goals are going forward. This webpage also includes some quizzes for the user. 
+I built an "About Me" webpage that contains my educational background, my work experience, my top 10 favorite activites, goals, a yes or no guessing game, a number guessing game, a guessing of the places I've lived with an array. 
 
 ### Author: Sarah Creager
 
