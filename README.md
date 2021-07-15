@@ -8,6 +8,7 @@ I built an "About Me" webpage that contains my educational background, my work e
 
 ### Driver: Abdulkadir Sheikh
 ### Navigator: Sarah Creager
+Abdul and I worked on the lab 04 assingment together. 
 
 ### Links and Resources
 * [.gitignore code](https://www.gitignore.io/api/node,linux,macos,windows,visualstudiocode)
