@@ -1,59 +1,119 @@
 body *{
+  background: #8ABBDC;
   box-sizing: border-box;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+
+}
+header {
+  background-color: #3D79A0;
+  padding-top: 1%;
 }
 
-header{
-  background-color: rgb(82, 82, 82);
+header img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 2%;
+  width: 25%;
+  background-color: #3D79A0;
 }
 
-main {
-  background-color: rgb(187, 187, 187);
+#bio, #goals, #educationh, #experienceh, #top10 {
+  color: #E9F5FD;
+  font-size: 250%;
+  text-align:center;
+  text-shadow: 4px 2px #193343;
+  background: #609BC1;
+  border: 2px solid #E9F5FD;
+  padding-top: 1%;
+  padding-bottom: 1%;
+
 }
 
-h1 {
-  font-size: xx-large;
-  color: whitesmoke;
-}
-
-h2 {
-  font-size: x-large;
-  color: rgb(0, 0, 0);
-}
-
-h3 {
-  font-size: large;
-}
-
-ul {
-  color: rgb(46, 46, 46);
-}
-
-ol {
-  color: rgb(119, 117, 117);
-}
-
-section {
-  border: 5px solid black;
-  margin: 20px 10px;
-  padding: 30px;
-}
-
-img {
-  width: 50%;
-}
-
-ol {
-  list-style: decimal;
-  list-style-position: inside;
+p {
+  font-size: 200%;
+  text-align: center;
+  padding-top:3%;
+  margin-right: 25%;
+  margin-left: 25%;
+  color: #193343;
 }
 
 ul {
-  list-style: circle;
-  list-style-position: inside;
+  font-size: 200%;
+  text-align: left;
+  padding-top:3%;
+  padding-bottom: 3%;
+  margin-right: 25%;
+  margin-left: 35%;
+  color: #193343;
+  list-style-type: circle;
+
 }
 
-footer {
-  background-color: rgb(187, 187, 187);
-  padding: 2%;
-  font-style: italic;
+ol {
+  text-align: left;
+  padding-left: 47%;
+  font-size: 200%;
+  list-style: decimal; 
+  color: #3D79A0;
+  padding-top: 2%;
 }
+
+
+nav {
+  text-align: center;
+  background: #609BC1;
+  border: 1px solid #E9F5FD;
+  color: #E9F5FD;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  display: inline block;
+ }
+
+  
+nav a:hover {
+  background: #3D79A0;
+ }
+
+a {
+   font-size: 25px;
+   padding-left: 2%;
+   padding-right: 2%;
+   color: #E9F5FD;
+}
+a:visited {
+  color: #1A3343;
+}
+
+#me {
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5%;
+  margin-right: 20%;
+}
+
+#skiing, #mountain, #professional, #stethoscope, #topten {
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5%;
+  margin-right: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
